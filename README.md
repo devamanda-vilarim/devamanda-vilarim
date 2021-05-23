@@ -13,8 +13,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" alt="mysql" width="40" height="40"/>
- <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="mysql" width="40" height="40"/>
- <img src="https://sempreju.com.br/wp-content/uploads/2020/04/MVC_ADVPL.png" width="40" height="40"/>
+ <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="JQuery" width="40" height="40"/>
+ <img src="https://sempreju.com.br/wp-content/uploads/2020/04/MVC_ADVPL.png" alt="MVC" width="40" height="40"/>
   <a href="https://www.w3.org/html/" target="_blank">
  <p>
  
