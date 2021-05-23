@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, sou Amanda Vilarim 👩💻 </h1>
 <h3 align = "center">✨ Seja Bem-vindo (a)!✨
 
- 🎓 Estudante em análise e desenvolvimento de sistemas
+ 🎓 Graduanda em análise e desenvolvimento de sistemas
  <br>❤  Minha paixão é Front-end </br>
  🌱 Desenvolvedora full-stack em desenvolvimento constante 
  <br>📫 amandavilarim0014@gmail.com </br>
