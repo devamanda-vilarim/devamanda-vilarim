@@ -1,10 +1,9 @@
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hey, I'm Amanda!</h1>
 <h3 align = "center">✨ Welcome!✨
 
- 🎓  I’m a student of systems analysis and development
- <br>❤  Love Front-end </br>
- 🌱 constant development
- <br>📫[email](mailto:amandavilarim0014@gmail.com)  
+ 🎓  <h4>hI’m a student of systems analysis and development
+  🌱 constant development
+ <br>📫[email](mailto:amandavilarim0014@gmail.com) </h4> 
 
  Tech
  
