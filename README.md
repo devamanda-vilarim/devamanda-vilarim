@@ -23,5 +23,8 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamanda-vilarim&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
-  
+  ![Amanda Vilarim](https://user-images.githubusercontent.com/79547623/131446500-3f269276-40a4-483e-8058-9ce66fe2d66c.jpg)
+
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/devamanda-vilarim)](https://github.com/devamanda-vilarim)
+  
+
