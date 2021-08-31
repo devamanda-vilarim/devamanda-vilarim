@@ -13,7 +13,7 @@
 devamanda-vilarim/devamanda-vilarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<align="center">
+
   ![Amanda Vilarim](https://user-images.githubusercontent.com/79547623/131445768-c3e56bf9-4142-4b9c-be61-dea9c73c8dda.jpg)
 
 
