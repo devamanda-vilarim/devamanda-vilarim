@@ -2,7 +2,7 @@
 <h3 align = "center">✨ Welcome!✨
   
 
-  <h4 align="center">🎓 I’m a student of systems analysis and development<br>
+  <h4 align="center">🎓 I’m a graduated of systems analysis and development<br>
   🌱 constant development<br>
  📫amandavilarim0014@gmail.com
 </h4>
